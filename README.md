@@ -1,0 +1,2 @@
+# InvestorParadise
+Analysis of stocks
